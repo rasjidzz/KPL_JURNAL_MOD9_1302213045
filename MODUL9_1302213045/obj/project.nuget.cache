@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "Pw/8Dif8QtPp0nOZrIjTNXp9PhVBILFr0ABmLAd4KddtKyAzGTT7y5Zf8Mvc26hsazDNZUFY9FRst1E3v/LTaw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mrisj\\OneDrive\\Documents\\File Icad\\Telkom University\\Semester 4\\KPL\\Praktikum KPL\\MOD9\\JURNAL_MOD9\\MODUL9_1302213045\\MODUL9_1302213045\\MODUL9_1302213045.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mrisj\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\mrisj\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\mrisj\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\mrisj\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\mrisj\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\mrisj\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
